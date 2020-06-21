@@ -1,16 +1,9 @@
-# contador_de_pessoa
+# Contador_de_pessoa
 
-A new Flutter project.
+Um projeto que tem como objetivo contar quantas pessoas tem no lugar, aonde é o limite 10 pessoas.
 
-## Getting Started
+## Como usar
 
-This project is a starting point for a Flutter application.
+Para esse projeto iniciar use tenha as dependencias do flutter instaladas em seu computador e execute:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
